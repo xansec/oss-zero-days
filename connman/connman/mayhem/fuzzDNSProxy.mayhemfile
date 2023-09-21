@@ -1,5 +1,6 @@
 project: connman
 target: dnsproxy
+image: ghcr.io/xansec/connman:latest
 
 duration: 600
 
